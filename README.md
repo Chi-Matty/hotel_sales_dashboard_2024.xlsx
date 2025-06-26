@@ -52,15 +52,7 @@ To analyse hotel sales transaction data and uncover actionable insights around:
 - Microsoft Excel  
 - Excel Formulas (SUMIFS, AVERAGEIFS, COUNTIFS, IF, FILTER, etc.)  
 - Excel Dashboards and Charts
-
----
-
-## 📁 File Contents
-
-📦 regional-hotel-sales-analysis
-├── hotel_sales_dashboard_2024.xlsx   # Final dashboard and analysis (Excel)
-└── README.md                         # Project overview and insights
-
+  
 ---
 
 ## 📌 Notes
