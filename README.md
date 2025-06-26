@@ -77,3 +77,5 @@ To analyse hotel sales transaction data and uncover actionable insights around:
 Data Analyst & Excel Automation Specialist  
 🔗 [LinkedIn](https://www.linkedin.com/in/michael-matty)  
 📧 mathiasmichael2@gmail.com
+
+I'm open to freelance work, collaborations, and volunteering for data-focused projects. Let’s connect.
