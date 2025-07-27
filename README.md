@@ -4,7 +4,7 @@ Excel dashboard and analysis of hotel sales transactions across regions — unco
 ![image](https://github.com/user-attachments/assets/ed628fc2-990c-4065-be11-e1b5ab2dae5c)
 
 
-This Excel-based data analysis project explores hotel sales transactions across multiple regions to uncover **revenue trends**, **customer behaviour**, and **channel performance**. The project was conducted to support strategic decision-making in pricing, marketing, and operational efficiency.
+This project explores hotel sales transactions across multiple regions to uncover **revenue trends**, **customer behaviour**, and **channel performance**. The project was conducted to support strategic decision-making in pricing, marketing, and operational efficiency.
 
 ---
 
@@ -52,25 +52,14 @@ To analyse hotel sales transaction data and uncover actionable insights around:
 
 ## 🧰 Tools Used
 
-- Microsoft Excel  
-- Excel Formulas (SUMIFS, AVERAGEIFS, COUNTIFS, IF, FILTER, etc.)  
-- Excel Dashboards and Charts
+    Microsoft Excel   
+    Excel Dashboards and Charts
   
----
-
-## 📌 Notes
-
-- All insights are derived from real transaction data.
-- Dashboard is interactive and built using native Excel functionality.
-- Fully built using native Excel functions and formulas — no macros or external tools required.
-
 ---
 
 ## 📬 Contact
 
-**Michael Chi**  
-Data Analyst & Excel Automation Specialist  
-🔗 [LinkedIn](https://www.linkedin.com/in/michael-matty)  
-📧 mathiasmichael2@gmail.com
+ 
+🔗 [LinkedIn](https://www.linkedin.com/in/michael-matty) [Email](mathiasmichael2@gmail.com) [Portfolio](https://chimatty.netlify.app/)
 
 I'm open to freelance work, collaborations, and volunteering for data-focused projects. Let’s connect.
