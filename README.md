@@ -1,6 +1,9 @@
 # Regional Hotel Sales Analysis 2024
 Excel dashboard and analysis of hotel sales transactions across regions — uncovering trends in bookings, revenue, customer behaviour, and channel performance.
 
+![image](https://github.com/user-attachments/assets/ed628fc2-990c-4065-be11-e1b5ab2dae5c)
+
+
 This Excel-based data analysis project explores hotel sales transactions across multiple regions to uncover **revenue trends**, **customer behaviour**, and **channel performance**. The project was conducted to support strategic decision-making in pricing, marketing, and operational efficiency.
 
 ---
